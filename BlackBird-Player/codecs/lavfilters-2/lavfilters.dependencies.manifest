@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+  <assemblyIdentity type='win32' name='LAVFilters.Dependencies' version='1.0.0.0' />
+  <file name="avutil-56.dll" />
+  <file name="avcodec-58.dll" />
+  <file name="avformat-58.dll" />
+  <file name="avresample-4.dll" />
+  <file name="avfilter-7.dll" />
+  <file name="swscale-5.dll" />
+</assembly>
